@@ -1,4 +1,4 @@
-import assets
+from assets import name
 
 print("Hello world!")
-print(assets.name)
+print(name)
